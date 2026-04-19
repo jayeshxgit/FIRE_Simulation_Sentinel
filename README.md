@@ -8,7 +8,7 @@ Designed for **real-time experimentation**, this tool allows users to dynamicall
 
 ## 🚀 Live Demo
 
-> *(Add your deployed Streamlit link here)*
+> *(http://localhost:8501)*
 
 ---
 
