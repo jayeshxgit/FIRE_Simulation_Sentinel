@@ -6,10 +6,6 @@ Designed for **real-time experimentation**, this tool allows users to dynamicall
 
 ---
 
-## 🚀 Live Demo
-
-> *(http://localhost:8501)*
-
 ---
 
 ## 🧠 Core Concept
